@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Bishal Bhat
+- 📖 I'm 4th sem CSIT student from FWU
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects
