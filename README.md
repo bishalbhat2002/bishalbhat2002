@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bishal Bhat
-- 📖 I'm 4th sem CSIT student from FWU
+- 📖 I'm 5th sem CSIT student from FWU
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email: bishalbhat3313@gmail.com
   
