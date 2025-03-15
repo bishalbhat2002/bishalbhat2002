@@ -12,7 +12,6 @@
           width="40"
         />
       </a>
-
       <a href="https://fb.com/bishalbhat2002" target="blank">
         <img
           align="center"
