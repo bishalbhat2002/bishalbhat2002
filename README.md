@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://bishalbhat2002.vercel.app/](https://bishalbhat2002.vercel.app/)
 
 - 📫 How to reach me **bishalbhat2002@gmail.com**
-- Linkedin **https://www.linkedin.com/in/bishal-bhat-2731ba337/**
+- Linkedin **https://www.linkedin.com/in/bishalbhat2002/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
