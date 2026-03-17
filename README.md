@@ -15,9 +15,14 @@
 <a href="https://twitter.com/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishalbhat2002" height="30" width="40" /></a>
 <a href="https://fb.com/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishalbhat2002" height="30" width="40" /></a>
 <a href="https://instagram.com/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishalbhat2002" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bishalbhat2002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="bishalbhat2002" height="30" width="40" /></a>
-
+<a href="https://www.youtube.com/@bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bishalbhat2002" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/bishalbhat2002" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="35" height="35" style="vertical-align: middle;">
+    <rect width="34" height="34" rx="4" ry="4" fill="#0A66C2"/>
+    <path fill="#ffffff" d="M8.5 13.1h4.6v14.8h-4.6zM10.8 9.2c1.5 0 2.4 1 2.4 2.3s-0.9 2.3-2.4 2.3-2.4-1-2.4-2.3 0.9-2.3 2.4-2.3zM14.3 13.1h4.4v2h0.1c0.6-1.2 2.1-2.4 4.3-2.4 4.6 0 5.4 3 5.4 6.9v7.4h-4.6v-6.6c0-1.6 0-3.7-2.3-3.7-2.3 0-2.6 1.8-2.6 3.6v6.7h-4.6v-14.8z"/>
+  </svg>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
