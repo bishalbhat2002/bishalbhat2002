@@ -1,29 +1,119 @@
 <h1 align="center">Hi 👋, I'm Bishal Bhat</h1>
-<h3 align="center">A passionate Fullstack developer from Mahendranagar, Kanchanpur.</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Creative Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalbhat2002&label=Profile%20views&color=0e75b6&style=flat" alt="bishalbhat2002" /> </p>
-
-- 🌱 I’m currently learning **Next Js.**
-
-- 👨‍💻 All of my projects are available at [https://bishalbhat2002.vercel.app/](https://bishalbhat2002.vercel.app/)
-
-- 📫 How to reach me **bishalbhat2002@gmail.com**
-- Linkedin **https://www.linkedin.com/in/bishalbhat2002/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishalbhat2002" height="30" width="40" /></a>
-<a href="https://fb.com/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishalbhat2002" height="30" width="40" /></a>
-<a href="https://instagram.com/bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishalbhat2002" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bishalbhat2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bishalbhat2002" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/bishalbhat2002" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="35" height="35" style="vertical-align: middle;">
-    <rect width="34" height="34" rx="4" ry="4" fill="#0A66C2"/>
-    <path fill="#ffffff" d="M8.5 13.1h4.6v14.8h-4.6zM10.8 9.2c1.5 0 2.4 1 2.4 2.3s-0.9 2.3-2.4 2.3-2.4-1-2.4-2.3 0.9-2.3 2.4-2.3zM14.3 13.1h4.4v2h0.1c0.6-1.2 2.1-2.4 4.3-2.4 4.6 0 5.4 3 5.4 6.9v7.4h-4.6v-6.6c0-1.6 0-3.7-2.3-3.7-2.3 0-2.6 1.8-2.6 3.6v6.7h-4.6v-14.8z"/>
-  </svg>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishalbhat2002&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🔥 Passionate about **Full Stack Development**
+- 🌱 Currently learning **Next.js & Advanced Backend**
+- 💡 Love building **real-world projects & solving problems**
+- 🎯 Goal: Become a **skilled MERN Stack Developer**
+- ⚡ Fun fact: **I design + code** 😎
+
+---
+
+### 🌐 Portfolio & Contact
+
+- 🌍 Portfolio: **https://bishalbhat2002.vercel.app/**
+- 📧 Email: **bishalbhat2002@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/bishalbhat2002/**
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bishalbhat2002" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
+</a>
+
+<a href="https://www.youtube.com/@bishalbhat2002" target="_blank">
+  <img src="https://img.icons8.com/color/48/youtube-play.png" height="40"/>
+</a>
+
+<a href="https://instagram.com/bishalbhat2002" target="_blank">
+  <img src="https://img.icons8.com/color/48/instagram-new.png" height="40"/>
+</a>
+
+<a href="https://fb.com/bishalbhat2002" target="_blank">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="40"/>
+</a>
+
+<a href="https://twitter.com/bishalbhat2002" target="_blank">
+  <img src="https://img.icons8.com/color/48/twitter--v1.png" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" height="48"/>
+<img src="https://skillicons.dev/icons?i=js" height="48"/>
+<img src="https://skillicons.dev/icons?i=ts" height="48"/>
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
+<img src="https://skillicons.dev/icons?i=php" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" height="48"/>
+<img src="https://skillicons.dev/icons?i=c" height="48"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="48"/>
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma" height="48"/>
+<img src="https://skillicons.dev/icons?i=photoshop" height="48"/>
+<img src="https://skillicons.dev/icons?i=illustrator" height="48"/>
+<img src="https://img.icons8.com/color/48/canva.png" height="48"/>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bishalbhat2002&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalbhat2002&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=bishalbhat2002&theme=tokyonight"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+  
+- 🌐 **FWU Sathi** – MERN - based student social platform  
+- 💬 **Chat App** – MERN - based Real-time communication system
+- 🏫 **Student Management System** – PHP Project  
+
+---
+
+### 💭 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
